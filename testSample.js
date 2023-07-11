@@ -1,3 +1,4 @@
+const Deno = require('deno');
 var http = require('http');
 var url = require('url');
 
